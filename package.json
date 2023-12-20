@@ -1,6 +1,6 @@
 {
   "name": "@mckravchyk/event-emitter",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "A typed event emitter for Node.js and the browser with a simple to use unsubscribe mechanism",
   "author": "Maciej Krawczyk",
   "homepage": "https://github.com/mckravchyk/event-emitter",
