@@ -36,8 +36,11 @@
     "README.md"
   ],
   "keywords": [
-    "EventEmitter",
     "event",
+    "events",
+    "event-emitter",
+    "event-dispatcher",
+    "EventEmitter",
     "emitter"
   ],
   "devDependencies": {
